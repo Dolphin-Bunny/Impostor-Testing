@@ -1,1 +1,2 @@
-echo Hello
+chmod +x Impostor.Server
+./Impostor.Server
